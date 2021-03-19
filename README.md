@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I am Saksham Gupta 👋</h1>
-<center>
 
+<center>
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
 - 🌱 I’m currently learning <strong>React.js</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">Saksham Gupta.</a>
 - ⚡ Fun fact:I love to watch <strong>Sci Fi Movies.</strong></a>
-
+</center>
+<center>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=isakshamgupta&show_icons=true" alt="isakshamgupta">
 </p>
