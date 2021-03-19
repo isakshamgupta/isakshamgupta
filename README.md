@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I am Saksham Gupta 👋</h1>
+<center>
 
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/isakshamgupta" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
 </p>
+</center>
