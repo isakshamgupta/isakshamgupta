@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <strong>React.js</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">Saksham Gupta.</a>
 - ⚡ Fun fact:I love to watch <strong>Sci Fi Movies.</strong></a>
-- [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)](https://github.com/jwenjian/visitor-badge)
 
 
 <details>
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
 
 </details>
  <br>
+ [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)](https://github.com/jwenjian/visitor-badge)
   <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Iguptasaksham" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
