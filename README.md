@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isakshamgupta&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" /></p>
 
 </details>
- 
+![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg) 
  <br>
   <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
