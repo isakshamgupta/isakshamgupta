@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I am Saksham Gupta 👋</h1>
+<h1 align="center">Hi there, I am Saksham Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
