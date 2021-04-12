@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 </details>
  
- <br><br>
+ <br>
   <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Iguptasaksham" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
