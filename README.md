@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I am Saksham Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-- 🎓 &nbsp; Studying B.Tech(2018-22) at Indian Institute of Information Technology Bhagalpur.
+- 🎓 Studying B.Tech(2018-22) at Indian Institute of Information Technology Bhagalpur.
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
 - 🌱 I’m currently learning <strong>React.js</strong>
