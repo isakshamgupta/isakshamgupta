@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 Studying B.Tech(2018-22) at Indian Institute of Information Technology Bhagalpur.
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
-- 🌱 I’m currently learning <strong>React.js</strong>
+- 🌱 I’m currently learning <strong>Ruby & JavaScript</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">Saksham Gupta.</a>
 - ⚡ Fun fact:I love to watch <strong>Sci Fi Movies.</strong></a>
 
