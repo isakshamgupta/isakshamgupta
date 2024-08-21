@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
- [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=isakshamgupta)](https://github.com/isakshamgupta/visitor-badge)
-
 📊 Github Stats:
 <p><img  src="https://github-readme-stats.vercel.app/api?username=isakshamgupta&show_icons=true&locale=en" alt="isakshamgupta" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=isakshamgupta&" alt="isakshamgupta" /></p>
