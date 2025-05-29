@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi there, I am Saksham Gupta </h1>
 
-- 🎓 Studying B.Tech(2018-22) at Indian Institute of Information Technology Bhagalpur.
-- 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
+- 🎓 Completed B.Tech(2018-22) in CSE at Indian Institute of Information Technology Bhagalpur.
+- 🔭 I’m currently working with<strong> Publicis Sapient</strong> as an associate software developement engineer 2.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
 - 🌱 I’m currently learning <strong>Java & JavaScript</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">Saksham Gupta.</a>
