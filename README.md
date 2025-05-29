@@ -27,8 +27,12 @@ Here are some ideas to get you started:
 <br>
 
 📊 Github Stats:
-<p><img  src="https://github-readme-stats.vercel.app/api?username=isakshamgupta&show_icons=true&locale=en" alt="isakshamgupta" /></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=isakshamgupta&" alt="isakshamgupta" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=isakshamgupta&show_icons=true&locale=en" alt="isakshamgupta" width="420" height="180" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isakshamgupta" alt="isakshamgupta" width="420" height="180" />
+</p>
 
 
 
