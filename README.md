@@ -50,23 +50,23 @@ Let's connect and build something amazing together!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Iguptasaksham" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" alt="Twitter"/>
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/isakshamgupta" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/isakshamgupta" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="30" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/isakshamgupta" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 </p>
 
