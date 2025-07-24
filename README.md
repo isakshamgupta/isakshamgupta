@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvGCQ9s9N3Oys/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/hvGCQ9s9N3Oys/giphy.gif" width="100"/> 
+<!-- fix this -->
+<!-- the above image src this is coming like this content is not avaiable change to something meaningful -->
 <div align="center">
 <h1 align="center">Hey there! 👋 I'm Saksham Gupta</h1>
 <p align="center">Cloud and Infrastructure Engineer | Cloud & DevOps Enthusiast | Lifelong Learner</p>
 </div>
 
 <h2 align="center">About Me 🚀</h2>
-🔭 I'm currently building awesome things as an Associate Software Development Engineer 2 at Publicis Sapient.
+🔭 I'm currently building awesome things as a cloud and Infrastructure Engineer at Thoughtworks.
 
 🎓 I hold a B.Tech in Computer Science Engineering (2018-2022) from the Indian Institute of Information Technology Bhagalpur.
 
@@ -22,9 +24,14 @@ Here are some of the technologies and areas I'm passionate about:
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Helm-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+<!-- fix this -->
+<!-- add for helm
+add for azuredevops -->
 
 GitHub Stats 📈
 <p align="center">
@@ -38,6 +45,8 @@ GitHub Stats 📈
 
 Connect with Me 🌐
 Let's connect and build something amazing together!
+<!-- fix this -->
+<!-- all these below icons are no coming in their originl color -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/isakshamhupta/" target="_blank">
@@ -61,8 +70,10 @@ Let's connect and build something amazing together!
 </a>
 </p>
 
+
+
 Fun Fact! 🎉
-When I'm not coding, you can find me engrossed in Sci-Fi Movies 🍿 or experimenting with new dishes in the kitchen 🧑‍🍳!
+When I'm not coding, you can find me experimenting with new dishes in the kitchen 🧑‍🍳!
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=isakshamgupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
