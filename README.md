@@ -4,7 +4,7 @@
 <p align="center">Associate Software Development Engineer | Cloud & DevOps Enthusiast | Lifelong Learner</p>
 </div>
 
-About Me 🚀
+
 🔭 I'm currently building awesome things as an Associate Software Development Engineer 2 at Publicis Sapient.
 
 🎓 I hold a B.Tech in Computer Science Engineering (2018-2022) from the Indian Institute of Information Technology Bhagalpur.
