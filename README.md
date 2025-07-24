@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvGCQ9s9N3Oys/giphy.gif" width="100"/>
 <div align="center">
 <h1 align="center">Hey there! 👋 I'm Saksham Gupta</h1>
-<p align="center">Associate Software Development Engineer | Cloud & DevOps Enthusiast | Lifelong Learner</p>
+<p align="center">Cloud and Infrastructure Engineer | Cloud & DevOps Enthusiast | Lifelong Learner</p>
 </div>
 
 <h2 align="center">About Me 🚀</h2>
@@ -14,7 +14,7 @@
 
 💡 Always eager to discuss Cloud, DevOps, Terraform, and Kubernetes. Feel free to ask me anything!
 
-My Toolkit & Interests 🛠️
+<h2 align="center">My Toolkit & Interests 🛠️</h2>
 Here are some of the technologies and areas I'm passionate about:
 
 <p align="center">
